@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_151103_pranayapp_schedules</description>
+        <name>x_151103_pranayapp_schedules</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:06:05</sys_created_on>
+        <sys_id>ffb73251db52101012dd487039961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_151103_pranayapp_schedules</sys_name>
+        <sys_package display_value="pranayApp" source="x_151103_pranayapp">18b0321ddb12101012dd487039961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pranayApp">18b0321ddb12101012dd487039961972</sys_scope>
+        <sys_update_name>sys_security_acl_ffb73251db52101012dd487039961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:06:05</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
