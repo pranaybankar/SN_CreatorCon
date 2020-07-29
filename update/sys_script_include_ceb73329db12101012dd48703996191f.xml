@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_151103_pranayapp.client_call</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>client_call</name>
+        <script><![CDATA[var client_call = Class.create();
+client_call.prototype = {
+    initialize: function() {
+    },
+
+    type: 'client_call',
+	
+	get_data: function() {
+	
+	
+	}
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 13:25:25</sys_created_on>
+        <sys_id>ceb73329db12101012dd48703996191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>client_call</sys_name>
+        <sys_package display_value="pranayApp" source="x_151103_pranayapp">18b0321ddb12101012dd487039961972</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="pranayApp">18b0321ddb12101012dd487039961972</sys_scope>
+        <sys_update_name>sys_script_include_ceb73329db12101012dd48703996191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 13:25:25</sys_updated_on>
+    </sys_script_include>
+</record_update>
